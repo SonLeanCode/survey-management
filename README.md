@@ -5,8 +5,8 @@
 
 2. Clone và chạy:
    ```
-   git clone https://github.com/your-username/survey-management.git
-   cd survey-management
+  https://github.com/SonLeanCode/survey-management
+   cd survey-test
    docker-compose up --build
    ```
 
